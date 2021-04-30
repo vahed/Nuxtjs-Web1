@@ -1,1 +1,1 @@
-# Nuxtjs-Web1
+# Nuxtjs web application using vuetify components
